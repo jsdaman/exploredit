@@ -1,5 +1,10 @@
 # Contributing
 
+
+<a href="https://dev.to/jsdaman">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jmysterio, the spaghetti bandit's DEV Profile" height="45" width="45">
+</a>
+
 Hi there! We're excited you've got ideas to improve topics and collections. You're helping the community discover valuable information.
 
 This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
